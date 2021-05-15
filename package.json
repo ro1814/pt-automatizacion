@@ -1,0 +1,22 @@
+{
+  "name": "pt-automatizacion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ro1814/pt-automatizacion.git"
+  },
+  "author": "Rodolfo Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ro1814/pt-automatizacion/issues"
+  },
+  "homepage": "https://github.com/ro1814/pt-automatizacion#readme",
+  "devDependencies": {
+    "playwright": "^1.11.0"
+  }
+}
